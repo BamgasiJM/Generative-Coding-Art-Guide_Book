@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "56e30e7666038774",
+    "type": "split",
+    "children": [
+      {
+        "id": "7777af8676842349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82056fa6f8603ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript for Art/08_클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08_클래스"
+            }
+          },
+          {
+            "id": "704e0a57c568be34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blender OSL/개요 - 2. Blender에서 OSL 사용하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "개요 - 2. Blender에서 OSL 사용하기"
+            }
+          },
+          {
+            "id": "e88bdec6c58eee67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generative Art 제너레이티브 아트/제너레이티브 아트 비전&테크 로드맵.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "제너레이티브 아트 비전&테크 로드맵"
+            }
+          },
+          {
+            "id": "25b12adc8c91e730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "수학으로 만드는 제너레이티브 아트/Part 3. 좌표 변형으로 패턴 만들기/Chapter 10. 대칭과 좌표 접기/10.1 대칭을 만드는 좌표 연산.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.1 대칭을 만드는 좌표 연산"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a77cc87dd509e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e6721579ac79e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c320f483b4c0d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "7e72192bd4913203",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3deaeb0f87a8900",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "7387eb6644667488",
+    "type": "split",
+    "children": [
+      {
+        "id": "22676fa43b8d8909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5c979be423833c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blender + Python/BMesh 모듈로 만드는 도형.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "BMesh 모듈로 만드는 도형 의 백링크"
+            }
+          },
+          {
+            "id": "3831359ad7085e52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blender + Python/BMesh 모듈로 만드는 도형.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "BMesh 모듈로 만드는 도형 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e5f2b5b8d657da18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "fe32d5f037f2bec1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SMU 커리어가이던스/커리어 가이던스 자료 구축 업무 개요.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "커리어 가이던스 자료 구축 업무 개요 의 개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "25b12adc8c91e730",
+  "lastOpenFiles": [
+    "SMU 커리어가이던스/커리어 가이던스 자료 구축 업무 개요.md",
+    "Generative Art & Coding Art/코딩 아트 도구의 드로잉 API와 셰이딩 언어 비교 연구.md",
+    "Generative Art & Coding Art/제너레이티브 아트 비전&테크 로드맵.md",
+    "Generative Art & Coding Art/Generative Art를 위한 C → C++ 커리큘럼.md",
+    "Generative Art & Coding Art/Generative Art 도구에 대한 고찰.md",
+    "Generative Art & Coding Art/Generative Art Concepts.md",
+    "무제",
+    "Blender OSL/개요 - 1. OSL(Open Shading Language)이란?.md",
+    "Blender + Python/복합행렬 스케일 조절.md",
+    "Blender + Python/블렌더 공부.md",
+    "Blender OSL/Blender + OSL.md",
+    "Blender OSL/개요 - 2. Blender에서 OSL 사용하기.md",
+    "Blender + Python/블렌더 파이썬 API로 배우는 벡터와 행렬.md",
+    "JavaScript for Art/08_클래스.md",
+    "Blender OSL",
+    "JavaScript for Art/00_CreativeCoding_핵심문법.md",
+    "JavaScript for Art/01_변수와_스코프.md",
+    "p5js/01_p5js를_처음_배운다면.md",
+    "p5js/03_React+p5.js+Vite_프로젝트셋업.md",
+    "p5js/02_VanillaJS+p5js+Vite_설정가이드.md",
+    "JavaScript for Art/12_비동기_대기.md",
+    "JavaScript for Art/13_모듈.md",
+    "JavaScript for Art/02_데이터타입과_참조.md",
+    "WebGL2와 GLSL/WebGL2와 GLSL.md",
+    "AI Based 아트워크 제작 수업 계획표.md",
+    "Web Design",
+    "Web Design/React r3f 초기화.md",
+    "Web Design/웹디자인 프롬프트 - Flat Design.md",
+    "Web Design/웹디자인 프롬프트 - Neumorphism.md",
+    "Generative Art & Coding Art",
+    "알고리즘 아트",
+    "WebGL2와 GLSL",
+    "컴퓨터 그래픽과 선형대수",
+    "React 스터디",
+    "SMU 커리어가이던스/attachments",
+    "무제.canvas",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
