@@ -384,7 +384,7 @@
 ### 27.6 좌표 변형과 타일링
 ### 27.7 노이즈와 프로시저럴 텍스처
 ### 27.8 Fragment Shader 기반 제너레이티브 아트
-### 27.9 p5.js, openFrameworks, nannou, OPENRNDR에서의 GLSL 활용
+### 27.9 여러 그래픽 환경에서 GLSL 활용하기
 
 ---
 
