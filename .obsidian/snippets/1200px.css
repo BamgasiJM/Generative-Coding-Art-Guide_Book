@@ -1,0 +1,8 @@
+.markdown-source-view {
+  --file-line-width: 1200px; /* 기본값은 보통 700px 정도입니다 */
+}
+
+/* 또는 전체 콘텐츠 영역의 최대 너비를 설정할 수도 있습니다 */
+.markdown-preview-view {
+  --file-line-width: 1200px;
+}

@@ -3,5 +3,9 @@
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSizeAction": true,
   "accentColor": "#5cf5d6",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "cssTheme": "Wasp",
+  "enabledCssSnippets": [
+    "1200px"
+  ]
 }
