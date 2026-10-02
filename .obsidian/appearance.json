@@ -1,10 +1,10 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "monospaceFontFamily": "JetBrains Mono",
   "baseFontSizeAction": true,
   "accentColor": "#5cf5d6",
-  "baseFontSize": 24,
-  "cssTheme": "Wasp",
+  "baseFontSize": 20,
+  "cssTheme": "Tokyo Night",
   "enabledCssSnippets": [
     "1200px"
   ]
