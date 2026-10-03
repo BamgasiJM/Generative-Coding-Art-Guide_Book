@@ -431,166 +431,95 @@
 
 ---
 
-# Part 7. 수학적 규칙을 적용한 프로젝트
+# Part 7. 수학 규칙을 적용한 아트워크 프로젝트
 
 ## Project 01. 원 필드
 
 ### 핵심 개념
-- 거리
-- 원
-- 마스크
-- 부드러운 경계
+- 거리,  원, 마스크, 부드러운 경계
 
 ### 구현 환경
-- p5.js 또는 Processing
-- GLSL
-- OSL
+- p5.js 또는 Processing / GLSL / OSL
 
 ---
 
 ## Project 02. 파동 합성
 
 ### 핵심 개념
-- 사인파
-- 진폭
-- 주파수
-- 위상
-- 시간
+- 사인파, 진폭, 주파수, 위상, 시간
 
 ### 구현 환경
-- Quil
-- p5.js 또는 Processing
-- GLSL 또는 HLSL
+- Quil / p5.js 또는 Processing / GLSL 또는 HLSL
 
 ---
 
 ## Project 03. 생성형 격자
 
 ### 핵심 개념
-- 반복
-- 타일 좌표
-- 셀 인덱스
-- 랜덤
-
+- 반복, 타일 좌표, 셀 인덱스, 랜덤
 ### 구현 환경
-- raylib
-- OPENRNDR
-- GLSL
+- raylib / OPENRNDR / GLSL
 
 ---
 
 ## Project 04. 방사형 대칭 패턴
 
 ### 핵심 개념
-- 극좌표
-- 각도
-- 회전
-- 방사형 대칭
-
+- 극좌표, 각도, 회전, 방사형 대칭
 ### 구현 환경
-- p5.js 또는 Processing
-- nannou
-- GLSL
-- OSL
+- p5.js 또는 Processing / nannou / GLSL / OSL
 
 ---
 
 ## Project 05. SDF 도형 조합
 
 ### 핵심 개념
-- 거리 함수
-- 합집합
-- 교집합
-- 차집합
-- 부드러운 조합
-
+- 거리 함수, 합집합, 교집합, 차집합, 부드러운 조합
 ### 구현 환경
-- GLSL
-- HLSL
-- Blender OSL
+- GLSL / HLSL / Blender OSL
 
 ---
 
 ## Project 06. 노이즈 풍경
 
 ### 핵심 개념
-- 노이즈
-- fBm
-- 필드
-- 변위
-- 색 변화
-
+- 노이즈, fBm, 필드, 변위, 색 변화
 ### 구현 환경
-- openFrameworks
-- nannou
-- GLSL
-- OSL
+- openFrameworks / nannou / GLSL / OSL
 
 ---
 
 ## Project 07. 흐름 필드 드로잉
 
 ### 핵심 개념
-- 벡터 필드
-- 입자
-- 속도
-- 누적
-- 궤적
-
+- 벡터 필드, 입자, 속도, 누적, 궤적
 ### 구현 환경
-- Quil
-- openFrameworks
-- OPENRNDR
-- raylib
+- Quil / openFrameworks / OPENRNDR / raylib
 
 ---
 
 ## Project 08. 재귀적 성장
 
 ### 핵심 개념
-- 재귀
-- 분기
-- 반복
-- 성장
-- 자기 유사성
-
+- 재귀, 분기, 반복, 성정, 자기 유사성
 ### 구현 환경
-- Processing
-- Quil
-- nannou
-- OPENRNDR
+- Processing / Quil / nannou / OPENRNDR
 
 ---
 
 ## Project 09. GPU 시뮬레이션 필드
 
 ### 핵심 개념
-- 피드백
-- 상태 텍스처
-- 필드
-- 반복 계산
-- 병렬 처리
-
+- 피드백, 상태 텍스쳐, 필드, 반복 계산, 병렬 처리
 ### 구현 환경
-- GLSL
-- HLSL
-- openFrameworks
-- nannou
+- GLSL / HLSL / openFrameworks / nannou
 
 ---
 
 ## Project 10. 종합 제너레이티브 아트워크
 
 ### 핵심 개념
-- 좌표
-- 함수
-- 거리
-- 변형
-- 반복
-- 노이즈
-- 시간
-- 시스템
-
+- 좌표, 함수, 거리, 변형, 반복, 노이즈, 시간, 시스템
 ### 구성
 - 작품의 시각 규칙 설계
 - 파라미터 설계
